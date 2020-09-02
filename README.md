@@ -6,5 +6,5 @@ foi construido um chat simples que funciona em tempo real utilizando uma unica r
 ## Instalação
 Comandos para inicializar o projeto: 
 - npm install
-- node server.js
-A aplicação estara rodando em http://localhost:3000/
+- node server.js 
+<p>A aplicação estara rodando em http://localhost:3000/</p>
